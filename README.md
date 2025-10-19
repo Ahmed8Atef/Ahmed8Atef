@@ -1,4 +1,9 @@
-<img src="A_professional_banner_graphic_showcases_Ahmed_Atef.png" alt="Ahmed Atef - AI Developer Banner">
+<h1 align="center">Ahmed Atef</h1>
+<h3 align="center">AI Developer | Machine Learning & Deep Learning Enthusiast</h3>
+
+<p align="center">
+  <img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Ahmed Atef GitHub header image">
+</p>
 
 <p align="center">
   <a href="https://github.com/Ahmed8Atef">
