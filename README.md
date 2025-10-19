@@ -2,10 +2,6 @@
 <h3 align="center">AI Developer | Machine Learning & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/Ahmed8Atef/Ahmed8Atef/raw/main/87f72f7d-94f2-47a7-8192-a05bc23ac8bc.png" alt="Ahmed Atef GitHub header image">
-</p>
-
-<p align="center">
   <a href="https://github.com/Ahmed8Atef">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height=25>
   </a>
