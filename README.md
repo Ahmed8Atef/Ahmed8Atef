@@ -2,7 +2,7 @@
 <h3 align="center">AI Developer | Machine Learning & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="file:///C:/Users/HP/Music/87f72f7d-94f2-47a7-8192-a05bc23ac8bc.png" alt="Ahmed Atef GitHub header image">
+  <img src="[file:///C:/Users/HP/Music/87f72f7d-94f2-47a7-8192-a05bc23ac8bc.png](https://drive.google.com/file/d/1atFl-B2haAFmXpd7l5FpS-jFrklYsWDz/view?usp=sharing)" alt="Ahmed Atef GitHub header image">
 </p>
 
 <p align="center">
